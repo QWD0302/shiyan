@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 欢迎来到 Cloud Studio
 
 在这里，您可以方便的使用您的专用主机进行开发。
@@ -12,3 +13,7 @@
 ，生成 8080 端口的访问链接，点击就可以打开示例页面了。
 
 ![](https://dn-coding-net-production-pp.codehub.cn/47f07a4f-7b50-4f28-bb56-90570ea01799.jpg)
+=======
+# shiyan
+实验
+>>>>>>> 83a6a52bc8ae68b6d4a5ecc6c1b2d49aa13f7ff1
